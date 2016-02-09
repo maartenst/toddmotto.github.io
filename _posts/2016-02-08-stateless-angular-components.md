@@ -15,7 +15,7 @@ In React, we have [stateless components](/stateless-react-components) that merel
 
 With the official 1.5 release, we can create stateless functions very similar to React's implementation, and I love this.
 
-Let's assume we have a list of people, and we want to render their name and age using some sort of template to iteration over the collection.
+Let's assume we have a list of people, and we want to render their name and age using some sort of template to iterate over the collection.
 
 When using the `.component()` method, we might create something like this:
 
